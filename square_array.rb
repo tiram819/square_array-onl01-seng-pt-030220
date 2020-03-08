@@ -1,5 +1,5 @@
-def square_array(array)
-  array = [1,2,3]
+def square_array(numbers)
+  numbers = [1,2,3]
   array.each 
 end
 
